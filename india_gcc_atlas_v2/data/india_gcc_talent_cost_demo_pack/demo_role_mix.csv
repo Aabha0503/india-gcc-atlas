@@ -1,0 +1,5 @@
+role_id,role,planned_headcount,junior_share,mid_share,senior_share,is_synthetic,note
+ROLE-01,Software Engineer,100,0.25,0.5,0.25,True,Illustrative demo mix; replace with intake-derived role mix.
+ROLE-02,Data Analyst / BI Developer,40,0.35,0.45,0.2,True,Illustrative demo mix; replace with intake-derived role mix.
+ROLE-03,Cloud / DevOps Engineer,30,0.2,0.5,0.3,True,Illustrative demo mix; replace with intake-derived role mix.
+ROLE-04,QA / Test Engineer,30,0.3,0.5,0.2,True,Illustrative demo mix; replace with intake-derived role mix.

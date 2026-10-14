@@ -1,0 +1,5 @@
+state,candidate_city,mapping_status,caveat,is_synthetic
+Karnataka,Bengaluru,candidate city for research,State is not a substitute for city-level salary/talent data.,True
+Telangana,Hyderabad,candidate city for research,State is not a substitute for city-level salary/talent data.,True
+Maharashtra,Pune,candidate city for research,State is not a substitute for city-level salary/talent data.,True
+Tamil Nadu,Chennai,candidate city for research,State is not a substitute for city-level salary/talent data.,True

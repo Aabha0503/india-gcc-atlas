@@ -1,0 +1,5 @@
+assumption_id,value,unit,caveat,evidence_status,is_synthetic
+employer_on_cost_rate,0.18,fraction_of_salary,Illustrative; replace with sourced statutory/benefit model.,DEMO_ONLY_SYNTHETIC,True
+annual_salary_inflation_rate,0.08,fraction_per_year,Illustrative; replace with city-specific evidence.,DEMO_ONLY_SYNTHETIC,True
+annual_attrition_rate,0.15,fraction_per_year,Illustrative; replace with role-specific evidence.,DEMO_ONLY_SYNTHETIC,True
+average_time_to_fill_days,75.0,days,"Illustrative placeholder, not observed hiring data.",DEMO_ONLY_SYNTHETIC,True

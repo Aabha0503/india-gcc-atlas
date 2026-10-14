@@ -1,0 +1,6 @@
+data_domain,status,interpretation
+salary_ranges,Synthetic,Invented salary ranges for UI demonstration.
+talent_pool,Missing,No real talent-pool counts; needs sourced city/role data.
+hiring_difficulty,Missing,No verified time-to-fill or competition data.
+recruitment_routes,Synthetic,"Route costs are invented, not quotes."
+state_city_mapping,Illustrative,Candidate city mapping; not proof a state has one talent market.

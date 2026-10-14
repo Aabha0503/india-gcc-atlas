@@ -1,0 +1,4 @@
+period,share_of_steady_state,illustrative_end_of_period_headcount,note,is_synthetic
+Year 1,0.3,60,Illustrative ramp; not a forecast.,True
+Year 2,0.7,140,Illustrative ramp; not a forecast.,True
+Year 3,1.0,200,Illustrative ramp; not a forecast.,True

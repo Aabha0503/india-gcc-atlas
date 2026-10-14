@@ -1,0 +1,5 @@
+policy_id,state,policy_name,benefit_summary,eligibility_status,evidence_status,caveat,is_synthetic
+DEMO-POL-001,Karnataka,Illustrative policy item A,Placeholder only,To research,DEMO_ONLY,Not a real policy claim; replace with current official notification.,True
+DEMO-POL-002,Telangana,Illustrative policy item B,Placeholder only,To research,DEMO_ONLY,Not a real policy claim; replace with current official notification.,True
+DEMO-POL-003,Maharashtra,Illustrative policy item C,Placeholder only,To research,DEMO_ONLY,Not a real policy claim; replace with current official notification.,True
+DEMO-POL-004,Tamil Nadu,Illustrative policy item D,Placeholder only,To research,DEMO_ONLY,Not a real policy claim; replace with current official notification.,True

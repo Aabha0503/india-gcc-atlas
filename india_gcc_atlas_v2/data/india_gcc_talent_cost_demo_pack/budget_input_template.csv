@@ -1,0 +1,4 @@
+budget_field,default_value,unit,note,is_synthetic
+annual_steady_state_budget_inr,,INR/year,User input required; never infer.,False
+one_time_setup_budget_inr,,INR one-time,User input required; never infer.,False
+max_cost_per_hire_inr,,INR per hire,User input required; never infer.,False

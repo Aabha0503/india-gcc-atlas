@@ -1,0 +1,4 @@
+hiring_route,pricing_basis,cost_low,cost_central,cost_high_or_fee_rate,caveat,evidence_status,is_synthetic
+In-house sourcing,INR per hire,25000.0,60000.0,100000.0,Includes illustrative recruiter time and tools; not a quote.,DEMO_ONLY_SYNTHETIC,True
+Recruitment consultancy,Percent of first-year base salary,0.12,0.16,0.22,Illustrative fee rate; actual contracts vary.,DEMO_ONLY_SYNTHETIC,True
+Hybrid,Fixed INR per hire plus salary fee share,40000.0,80000.0,0.1,Illustrative fixed cost plus fee share; see README.,DEMO_ONLY_SYNTHETIC,True

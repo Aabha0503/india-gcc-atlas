@@ -1,0 +1,2 @@
+source_id,publisher,source_title,source_url,publication_date,source_type,source_notes,last_checked_date,is_synthetic
+DEMO-SYNTHETIC-001,India GCC Atlas demo team,Synthetic example data for UI demonstration,,,synthetic_demo_data,Not an external source. All city metrics are invented for demonstration only. Do not present as factual market research.,2026-10-14,True

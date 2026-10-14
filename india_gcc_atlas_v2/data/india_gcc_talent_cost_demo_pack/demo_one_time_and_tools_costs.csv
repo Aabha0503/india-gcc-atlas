@@ -1,0 +1,5 @@
+cost_item,low,central,high,unit,caveat,evidence_status,is_synthetic
+Office fit-out,15000000,30000000,50000000,INR one-time,Synthetic; depends on area/specification.,DEMO_ONLY_SYNTHETIC,True
+Legal entity and professional setup,1000000,2500000,5000000,INR one-time,Synthetic; obtain professional quotes.,DEMO_ONLY_SYNTHETIC,True
+Onboarding and equipment per employee,50000,85000,125000,INR per new hire,Synthetic; separate from payroll.,DEMO_ONLY_SYNTHETIC,True
+LinkedIn sourcing licence,300000,600000,1000000,INR per year,Synthetic; verify current pricing.,DEMO_ONLY_SYNTHETIC,True

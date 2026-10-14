@@ -1,0 +1,7 @@
+company,city,sector,presence_status,source,source_url,confidence,last_reviewed
+Microsoft,Hyderabad,Technology,Publicly reported India capability presence,Microsoft India,https://news.microsoft.com/en-in/,Needs record-level source validation,2026-10-13
+Walmart Global Tech,Bengaluru,Retail technology,Publicly reported India technology presence,Walmart Corporate News,https://corporate.walmart.com/news,Needs record-level source validation,2026-10-13
+Goldman Sachs,Bengaluru,Financial services,Publicly reported India office / engineering presence,Goldman Sachs India,https://www.goldmansachs.com/worldwide/india,Needs record-level source validation,2026-10-13
+JPMorganChase,Hyderabad,Financial services,Publicly reported India technology / operations presence,JPMorganChase Careers,https://careers.jpmorgan.com/,Needs record-level source validation,2026-10-13
+Boeing,Bengaluru,Aerospace & engineering,Publicly reported engineering presence,Boeing India,https://www.boeing.co.in/,Needs record-level source validation,2026-10-13
+Siemens,Pune,Industrial technology,Publicly reported India technology presence,Siemens India,https://www.siemens.com/in/en.html,Needs record-level source validation,2026-10-13
